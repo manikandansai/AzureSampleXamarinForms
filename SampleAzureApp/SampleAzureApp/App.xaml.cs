@@ -13,7 +13,7 @@ namespace SampleAzureApp
 		{
 			InitializeComponent();
 
-			MainPage = new SampleAzureApp.MainPage();
+			MainPage = new SampleAzureApp.TODOListPage();
 		}
 
 		protected override void OnStart ()
